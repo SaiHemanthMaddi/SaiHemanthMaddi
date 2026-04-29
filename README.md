@@ -1,20 +1,41 @@
 <h1 align="center">Hi 👋, I'm Sai Hemanth Maddi</h1>
-<h3 align="center">QA Automation Tester | SDET | Selenium | Playwright | API Testing | Java</h3>
+<h3 align="center">QA Automation Engineer | SDET | Playwright | Selenium | API Testing | Java</h3>
 
 <p align="center">
-Passionate about breaking bugs before users do 🚀
+Passionate about building quality through automation 🚀
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SaiHemanthMaddi&color=blue" alt="Profile views"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-Expert-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Selenium-Automation-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Playwright-E2E-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API-Testing-red?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 QA Automation Tester with experience in **Java, Selenium, Playwright**
-- 🌱 Currently learning **Advanced Playwright, REST Assured, CI/CD**
-- 🧪 Skilled in **Automation + Manual Testing**
-- 💼 Open to **QA Engineer / SDET opportunities**
+- 🔭 QA Automation Engineer experienced in UI and API automation  
+- 🧪 Strong background in Manual + Automation Testing  
+- 🌱 Currently learning advanced SDET and CI/CD practices  
+- 💼 Open to QA Automation / SDET opportunities  
 - 📍 Based in South Africa  
-- ⚡ Believe quality is built, not inspected in.
+- ⚡ I believe quality is built, not inspected in
+
+---
+
+## 🚀 What I Do
+
+- Build scalable automation frameworks  
+- End-to-End UI and API testing  
+- Functional, Regression and Integration testing  
+- Improve software quality through automation strategy  
+- Create maintainable test solutions using best practices
 
 ---
 
@@ -36,45 +57,49 @@ Passionate about breaking bugs before users do 🚀
 - Postman  
 - REST Assured  
 
+### Performance Testing
+- JMeter
+
 ### Tools
 - Git & GitHub  
 - Jenkins  
-- JMeter  
 - Jira  
 - Azure DevOps  
 
 ---
 
-## 🚀 Featured Projects
+## 📂 Featured Projects
 
-### Selenium Automation Framework
+### 🔹 Selenium Automation Framework
 ✔ Page Object Model  
-✔ TestNG Framework  
-✔ Maven Integration  
-✔ Email Reporting  
+✔ Hybrid Framework  
+✔ TestNG + Maven  
+✔ Reporting and Email Notifications
 
-### Playwright Framework
-✔ Cross-browser automation  
+### 🔹 Playwright Automation Framework
+✔ Cross Browser Testing  
 ✔ API Mocking  
 ✔ Dynamic Locators  
-✔ End-to-End Testing
+✔ End-to-End Automation
 
-### API Automation
-✔ REST Assured Framework  
-✔ Request/Response Validation  
-✔ Schema Assertions  
+### 🔹 API Testing Framework
+✔ REST Assured Automation  
+✔ Response Validation  
+✔ Schema Assertions
 
 ---
 
-## 📈 Currently Learning
+## 📈 Currently Focused On
+
 - Advanced Playwright Patterns  
-- Framework Design  
-- CI/CD Integration  
-- SDET Best Practices
+- API Automation with REST Assured  
+- CI/CD Pipeline Integration  
+- SDET Interview Preparation  
+- Framework Design Best Practices
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 ![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiHemanthMaddi&show_icons=true)
 
@@ -83,6 +108,7 @@ Passionate about breaking bugs before users do 🚀
 ---
 
 ## 🏏 Beyond Tech
+
 - Cricket lover  
 - Movie enthusiast  
 - Music addict 🎵  
@@ -92,12 +118,16 @@ Passionate about breaking bugs before users do 🚀
 
 ## 🤝 Connect With Me
 
-LinkedIn: www.linkedin.com/in/sai-maddi-a0a2413b8
-Email: maddi.saihemanth938@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/sai-maddi-a0a2413b8
+- 📧 Email: maddi.saihemanth938@gmail.com
+
 
 ---
 
-### ✨ Favorite Quote
-> “Quality is never an accident; it is always the result of intelligent effort.”
+## ✨ Motto
+
+> Break it. Learn it. Automate it. Improve it.
+
+---
 
 ⭐ If you like my repositories, feel free to star them.
