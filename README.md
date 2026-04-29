@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Hemanth Maddi</h1>
-<h3 align="center">QA Automation Tester | Selenium | Playwright | API Testing | Java</h3>
+<h3 align="center">QA Automation Tester | SDET | Selenium | Playwright | API Testing | Java</h3>
 
 <p align="center">
 Passionate about breaking bugs before users do 🚀
